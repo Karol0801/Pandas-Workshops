@@ -1,1 +1,1 @@
-# Pandas-Workshops
+This is a copy of the Colab notebook we used during a workshop dedicated to learning the basics of pandas library. The workshop was conducted for the bioinformatics student research group ”In Silico” of which I am a member.
